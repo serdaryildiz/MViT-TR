@@ -1,7 +1,19 @@
-# Save the Markdown README.md content to a .txt file
 
-readme_content = """
-# MViT-TR: Masked Vision Transformer for Text Recognition
+# !Paper! MViT-TR: Masked Vision Transformer for Text Recognition
+
+<font size='3'> <p align="center">
+    <a href='https://scholar.google.com/citations?user=sl1KrkYAAAAJ&hl=tr'> Serdar Yıldız* </a> 
+</p></font>
+
+<p align="center">
+    <a href='https://huggingface.co/spaces/serdaryildiz/**'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MViT_STR-blue'></a> 
+</p>
+<p align="center">
+    <a href='https://doi.org/10.55730/1300-0632.4035'><img src='https://img.shields.io/badge/Paper-JESTCH-red'></a>
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+
+
 
 **Author:** Serdar Yıldız
 
