@@ -42,13 +42,7 @@ def main_worker(args):
     logger.info(args)
 
     # get model
-    model = TTR({"img_size": [32, 128],
-                 "patch_size": [4, 4],
-                 "embed_dim": 512,
-                 "num_heads": 8,
-                 "position_attention_hidden": 64,
-                 "mask_ratio": 0.0
-                 })
+    model = getModel(args)
     model.load_state_dict(torch.load(args.ckpt)["model"])
     model.eval()
     model = model.cuda(args.gpu)
