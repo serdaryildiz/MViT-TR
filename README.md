@@ -15,18 +15,11 @@
 
 
 
-**Author:** Serdar Yıldız
-
 ---
 
 ## Overview
 
-MViT-TR (Masked Vision Transformer for Text Recognition) is a novel transformer-based model for **Turkish Scene Text Recognition (STR)**, addressing the unique challenges posed by the Turkish language, including diacritic marks and language-specific characters. MViT-TR achieves high accuracy by leveraging a position attention module alongside transformers, achieving state-of-the-art results on Turkish STR tasks.
-
-This repository contains:
-- MViT-TR model code
-- Turkish Scene Text Recognition dataset (TS-TR)
-- Synthetic Turkish Scene Text Recognition dataset (STS-TR)
+MViT-TR (Masked Vision Transformer for Text Recognition) is a novel transformer-based model for Turkish Scene Text Recognition, addressing the unique challenges posed by the Turkish language, including diacritic marks and language-specific characters. MViT-TR achieves high accuracy by leveraging a position attention module alongside transformers, achieving state-of-the-art results on Turkish STR tasks.
 
 ![MViT-TR Model Architecture](fig/MViT-TR-arch.png)
 
@@ -61,9 +54,10 @@ To set up MViT-TR for training and evaluation, follow these steps:
    cd MViT-TR
 
 2. **Install required dependencies:**
+    ```bash
     pip install -r requirements.txt
 
-3. **Download pre-trained weights (Optional): ...**
+3. **Download weights (Optional): ...**
 
 ## Training and Evaluation
 
