@@ -28,13 +28,13 @@ model:
 dataset:
   train:
     name: TurkishSceneTextDataset
-    root: ./data/TS-TR/TRAIN
+    root: ./data/TS-TR
     letters: 0123456789abcçdefgğhıijklmnoöpqrsştuüvwxyz
     maxLength: 25
 
   val:
     name: TurkishSceneTextDataset
-    root: ./data/TS-TR/TEST
+    root: ./data/TS-TR
     letters: 0123456789abcçdefgğhıijklmnoöpqrsştuüvwxyz
     maxLength: 25
 

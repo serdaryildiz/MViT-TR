@@ -34,7 +34,7 @@ dataset:
 
   val:
     name: TurkishSceneTextDataset
-    root: ./data/TS-TR/TEST
+    root: ./data/TS-TR
     letters: 0123456789abcçdefgğhıijklmnoöpqrsştuüvwxyz
     maxLength: 25
 
