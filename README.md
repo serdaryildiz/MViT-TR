@@ -9,7 +9,7 @@
     <a href='https://huggingface.co/spaces/serdaryildiz/**'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MViT_STR-blue'></a> 
 </p>
 <p align="center">
-    <a href='https://doi.org/10.55730/1300-0632.4035'><img src='https://img.shields.io/badge/Paper-JESTCH-red'></a>
+    <a href='https://www.sciencedirect.com/science/article/pii/S2215098624002672'><img src='https://img.shields.io/badge/Paper-JESTCH-red'></a>
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
 
