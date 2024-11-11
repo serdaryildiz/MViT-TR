@@ -6,7 +6,7 @@
 </p></font>
 
 <p align="center">
-    <a href='https://huggingface.co/spaces/serdaryildiz/MViT-STR'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MViT_STR-blue'></a> 
+    <a href='https://huggingface.co/spaces/serdaryildiz/MViT-TR'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MViT_STR-blue'></a> 
 </p>
 <p align="center">
     <a href='https://www.sciencedirect.com/science/article/pii/S2215098624002672'><img src='https://img.shields.io/badge/Paper-JESTCH-red'></a>
