@@ -104,14 +104,17 @@ MViT-TR achieves high recognition accuracy and efficiency on Turkish STR tasks, 
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{Yildiz2024MVITTR,
-  title = {Turkish Scene Text Recognition: Introducing Extensive Real and Synthetic Datasets and a Novel Recognition Model},
-  author = {Serdar Yıldız},
-  journal = {Engineering Science and Technology, an International Journal},
-  volume = {60},
-  year = {2024},
-  pages = {101881},
-  doi = {10.1016/j.jestch.2024.101881}
+@article{YILDIZ2024101881,
+title = {Turkish scene text recognition: Introducing extensive real and synthetic datasets and a novel recognition model},
+journal = {Engineering Science and Technology, an International Journal},
+volume = {60},
+pages = {101881},
+year = {2024},
+issn = {2215-0986},
+doi = {https://doi.org/10.1016/j.jestch.2024.101881},
+url = {https://www.sciencedirect.com/science/article/pii/S2215098624002672},
+author = {Serdar Yıldız},
+keywords = {Scene text recognition dataset, Synthetic scene text recognition dataset, Patch masking, Position attention, Vision transformers},
 }
 ```
 
