@@ -57,7 +57,7 @@ To set up MViT-TR for training and evaluation, follow these steps:
     ```bash
     pip install -r requirements.txt
 
-3. **Download weights (Optional): ...**
+3. **Download weights (Optional): [Drive](https://drive.google.com/drive/folders/15Uv27rIrhxKRT7J5CdHQA1OsG0gPKW_d?usp=sharing)
 
 ## Training and Evaluation
 
